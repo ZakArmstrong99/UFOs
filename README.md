@@ -16,7 +16,7 @@ When the individual hits enter, the table becomes filtered only showing sighting
 
 ![city_filtered_table](https://user-images.githubusercontent.com/107213807/185769751-8f05a8f2-bd89-4cd4-9cc4-6587ee35df41.png)
 
-The good thing about this filter is that it allow's the user to filter the table using more than one field. For example, let's say the individual heard about a triangle in the sky in El Cajon and wanted to investigate. 
+The good thing about this filter is that it allow's the user to filter the table by using more than one field. For example, let's say the individual heard about a triangle in the sky in El Cajon and wanted to investigate. 
 
 ![city_shape_filter](https://user-images.githubusercontent.com/107213807/185769841-a841c996-c4b8-44ca-b920-e95a61ccaa76.png)
 
