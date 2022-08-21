@@ -24,7 +24,7 @@ After the user fills in the correct fields, the table becomes even more filtered
 
 ![city_shape_filtered_table](https://user-images.githubusercontent.com/107213807/185769853-e33c0cb1-902d-42af-9268-920e2e9626e8.png)
 
-As seen above, the web app is pretty simple to use. The code that makes it work however is not quite as simple.
+As seen above, the web app is pretty simple to use. The table and filters were created using JavaScript functions to build the table from the original data and to update the table to only show the filtered results based on the keys found in the orginal data.
 
 
 
